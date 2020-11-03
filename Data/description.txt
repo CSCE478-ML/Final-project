@@ -1,0 +1,33 @@
+Vegetation converage:
+y1: Trees (trees)
+y2: Shurbs (shrubs)
+y3: Peren_FG (perennial forbs and grasses)
+y4: bare_groun (bare ground)
+y5: Annual_FG (annual forbs and grasses)
+
+Climatic variable:
+x1: ppt (precipitation)
+x2: vpdmin (minimum vapor pressure deficit )
+x3: vpdmax (maximum vapor pressure deficit)
+x4: tmin (minimum temperature)
+x5: tmean (mean temperature)
+x6: tmax (maximum temperature)
+x7: tdmean (mean dewpoint temperature)
+
+Topographic variable:
+x8: slope
+x9: dem (elevation)
+x10: aspect
+
+Soil variable:
+x11:Runoff (Runoff)
+x12: Frosting_R (Frosting Rate)
+x13: Flooding_F (Dominant flooding frequency)
+x14: BD_depth (Bedrock Depth)
+x15: AWS_50cm (Available water storage_50cm)
+x16: AWS_25cm (Available water storage_25cm)
+x17: AWS_150cm (Available water storage_150cm)
+x18: AWS_100cm (Available water storage_100cm)
+x19: Min_WTD (Annual minimum water table depth)
+
+
