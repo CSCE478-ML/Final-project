@@ -1,8 +1,9 @@
 # Final-project
 
-### To-Do's
-#### Since the Model is underfitting. We either need more data or complex models
+### How To
 
-1. Model Selction on SVR( Kernel RBF )
-2. Model Selction on Random Forrest
-3. Evaluate on test data for both 1 and 2
+Data_Exploration.ipynb is a notebook which goes over the data exploration and definition of the dataset, and finds the best features for the data.
+
+Classifier_Code.ipynb is a notebook which, when run, runs our classifier model with LinearSVC on the dataset and evaluate it's performance.
+
+Regression_Code.ipynb is a notebook which, when run, will perform regression on the dataset with various models, and compare them.
